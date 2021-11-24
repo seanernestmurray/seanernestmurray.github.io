@@ -1,4 +1,4 @@
- ![Image](/headshot.jpg)
+ ![Image](headshot.jpg)
  
  Project Portfolio
 
