@@ -1,4 +1,4 @@
-## S. E. Murray Project Portfolio 
+## Project Portfolio \\ S. E. Murray
 
 You can use the [editor on GitHub](https://github.com/seanernestmurray/seanernestmurray.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
