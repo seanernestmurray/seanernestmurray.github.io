@@ -1,4 +1,4 @@
- ![Image](https://github.com/seanernestmurray/seanernestmurray.github.io/blob/main/IMG_0124%202.jpg)
+ ![Image](https://github.com/seanernestmurray/seanernestmurray.github.io/blob/main/headshot.jpg)
  
  Project Portfolio
 
