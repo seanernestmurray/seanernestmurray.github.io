@@ -1,7 +1,5 @@
-
+# S. E. Murray Project Portfolio
 ## The Dynamics of Alliance and Hostility in Social Structures
-
-### S. E. Murray
 
 This dissertation explores the formation of social structures on signed graphs from the perspective of dynamical systems. We outline what it means for a graph of relations to be balanced, motivated by concepts in social psychology. We investigate and compare existing models of opinion dynamics through gossiping mechanisms, and explore how they affect the structure of social groups. Such dynamics tend to diverge, hence we investigate known models that bound the opinions to a prescribed range. We then present new convergence proofs and prove the stability of different social states under such models.
 
