@@ -1,3 +1,5 @@
+ ![Image](https://github.com/seanernestmurray/seanernestmurray.github.io/blob/main/IMG_0124%202.jpg)
+ 
  Project Portfolio
 
 ## The Dynamics of Alliance and Hostility in Social Structures
