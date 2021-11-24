@@ -1,9 +1,6 @@
  <!-- ![Image](headshot.jpg) -->
  
-
 {% include module.html image_path="headshot.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
-
- Project Portfolio
 
 ## The Dynamics of Alliance and Hostility in Social Structures
 
